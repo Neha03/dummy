@@ -4,6 +4,8 @@ class Blupp {
 public:
     Blupp() {}
     ~Blupp() {}
+
+    void makeBlupp();
 };
 
 }
